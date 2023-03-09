@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2",
+    "name": "New Product 2.0",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  },
+  {
+    "id": "3",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "price": 929.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "price": 49.99
+  },
+  {
+    "id": "02a3f3e2-1a68-400f-b270-b6c8985373e9",
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100
+  },
+  {
+    "id": "5009a818-98c7-40db-8ee3-be668e45d40e",
+    "name": "Test Product",
+    "description": "This is a test product",
+    "price": 100
+  },
+  {
+    "id": "82ecd33f-2d72-4d13-96fe-8da134156e70",
+    "name": "New Product",
+    "description": "The new product is cool",
+    "price": 199
+  },
+  {
+    "id": "4a15c0fc-e183-4e9a-9aac-23df5f4bed46",
+    "name": "New Product",
+    "description": "The new product is cool",
+    "price": 199
+  },
+  {
+    "id": "22ca8a19-920e-4508-a077-0f9072d1235f",
+    "name": "New Product 2.0",
+    "description": "The new product is awesome",
+    "price": 299
+  }
+]
