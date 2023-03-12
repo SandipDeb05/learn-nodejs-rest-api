@@ -71,9 +71,6 @@ async function updateProduct(req, res, id) {
         description: description || product.description,
         price: price || product.price,
       };
-      res.writeHead(200, {
-        "Content-Type": "application/json",
-      });
       const updatedProduct = await Products.update(id, productData);
       res.writeHead(200, {
         "Content-Type": "application/json",
